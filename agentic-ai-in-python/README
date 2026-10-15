@@ -1,1 +1,34 @@
 
+# Building Agentic AI in Python
+
+A practical introduction to three foundational
+Agentic AI patterns:
+
+1. Reflection: Generate, critique, and revise.
+2. Tool Use: Connect LLMs to external resources.
+3. Multi-Agent Orchestration: Coordinate planning,
+   research, writing, and evaluation.
+
+## Companion Article
+
+Medium: [Add article URL]
+
+## Jupyter Notebook
+
+Open `Agentic_AI_From_Reflection_to_Multi_Agent.ipynb`
+
+## Getting Started
+
+1. Clone or download this repository.
+2. Install the required Python packages.
+3. Open the notebook in Jupyter.
+4. Follow the examples step by step.
+
+Some examples require API credentials and internet access.
+
+## Purpose
+
+This project demonstrates Agentic AI concepts
+through practical Python examples, with
+applications to scientific research.
+
